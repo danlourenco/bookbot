@@ -1,2 +1,2 @@
 # bookbot
-for boot.dev course
+Boot.dev course
